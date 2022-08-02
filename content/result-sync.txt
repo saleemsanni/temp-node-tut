@@ -1,0 +1,1 @@
+Here is the value passing from created file:This is first text file sitting in content (Main folder), This is second text file also sitting in content folderHere is the value passing from created file:This is first text file sitting in content (Main folder), This is second text file also sitting in content folder
